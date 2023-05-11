@@ -7,3 +7,5 @@ Site URL: [https://inflectra.github.io/rapise-test-pages](https://inflectra.gith
 ## Contents
 
 - [Frames](frames/main.html)
+- [Leave Site, onbeforeunload](onbeforeunload/leavesite.html)
+- [Leave Site, addEventListener](onbeforeunload/leavesite_listener.html)

@@ -1,0 +1,17 @@
+<html>
+<head>
+</head>
+<body>
+<a href="hello.html">Leave Page</a>
+<script>
+	
+	window.onbeforeunload = confirmExit;
+	function confirmExit()
+	{
+		console.log("On before unload called!");
+		return "Are you sure you want to exit this page?";
+	}
+
+</script>
+</body>
+</html>
